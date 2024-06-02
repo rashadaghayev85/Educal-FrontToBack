@@ -1,0 +1,62 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="container px-3 my-5 clearfix">
+    <!-- Shopping cart table -->
+    <div class="card">
+        <div class="card-header">
+            <h2>@Model.Name</h2>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered m-0">
+                    <thead>
+                        <tr>
+                            <!-- Set columns width -->
+                            <th class="text-center py-3 px-4" style="min-width: 400px;">Category Name</th>
+                            <th class="text-center py-3 px-4" style="width: 120px;">Course Count</th>
+                            <th class="text-center align-middle py-3 px-0" style="width: 40px;"><a href="#" class="shop-tooltip float-none text-light" title="" data-original-title="Clear cart"><i class="ino ion-md-trash"></i></a></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                       
+                            
+                                <tr>
+                                    <td class="p-4">
+                                        <div class="media align-items-center">
+                                          <img style="witdh:100px;height:100px" src="~/assets/icons/@Model.ImageName" class="d-block ui-w-40 ui-bordered mr-4" alt="">
+                                            <div class="media-body">
+                                                @* <a href="#" class="d-block text-dark">@item.Name- @img.IsMain</a> *@
+                                               
+                                            </div>
+                                        </div>
+
+
+                                    </td>
+                                     <td class="align-middle p-4">@Model.Courses.Count</td>
+
+                                    <td class="text-center align-middle px-0"><a href="#" class="shop-tooltip close float-none text-danger" title="" data-original-title="Remove">×</a></td>
+                                </tr>
+                                
+                   
+                            
+                        
+
+
+                    </tbody>
+                </table>
+            </div>
+
+
+
+
+            <div class="float-right">
+                <a asp-action="Index" class="btn btn-primary btn-default md-btn-flat mt-2 mr-3">Back</a>
+            </div>
+
+        </div>
+    </div>
+</div>

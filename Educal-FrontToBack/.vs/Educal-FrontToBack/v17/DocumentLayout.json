@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\categories\\categoryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\categories\\categoryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\courses\\courseeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\courses\\courseeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\helpers\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\helpers\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\categories\\categorycoursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\categories\\categorycoursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\courses\\coursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\courses\\coursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\courses\\courseimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\courses\\courseimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\categories\\categorydetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\categories\\categorydetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\courses\\coursedetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\courses\\coursedetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\educal-fronttoback\\educal-fronttoback\\viewmodels\\categories\\categoryimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A399D8-774E-47E8-8186-C19E31DBA8CE}|Educal-FrontToBack\\Educal-FrontToBack.csproj|solutionrelative:educal-fronttoback\\viewmodels\\categories\\categoryimagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:54:47.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Services\\Interfaces\\ICourseService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:55:43.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:44:57.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:45:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Services\\CourseService.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Services\\CourseService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAGAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:56:37.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEEBAAAAAAAAAAAAADgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T18:04:18.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAAAFQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:52:16.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:34:45.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T15:36:25.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:43:25.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAMwIcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:43:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Categories\\CategoryEditVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Categories\\CategoryEditVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Categories\\CategoryEditVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Categories\\CategoryEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:53:23.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseEditVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Courses\\CourseEditVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseEditVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Courses\\CourseEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:26:17.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:35:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T01:30:42.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:30:14.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T00:35:24.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Helpers\\Extensions\\FileExtensions.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Helpers\\Extensions\\FileExtensions.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Helpers\\Extensions\\FileExtensions.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Helpers\\Extensions\\FileExtensions.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:53:23.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryCourseVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Categories\\CategoryCourseVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Categories\\CategoryCourseVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Categories\\CategoryCourseVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Categories\\CategoryCourseVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T01:32:14.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Program.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Program.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Program.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T01:27:17.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:30:44.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Courses\\CourseVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Courses\\CourseVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:01:20.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseImageVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseImageVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Courses\\CourseImageVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseImageVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Courses\\CourseImageVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:11:37.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:17:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADABAAAAAAAAAAAAAD8BAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T01:28:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Educal-FrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T00:41:10.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Categories\\CategoryDetailVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Categories\\CategoryDetailVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Categories\\CategoryDetailVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Categories\\CategoryDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:36:24.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseDetailVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Courses\\CourseDetailVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Courses\\CourseDetailVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Courses\\CourseDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:12:39.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\Models\\Course.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:05:19.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryImageVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Categories\\CategoryImageVM.cs",
+              "RelativeDocumentMoniker": "Educal-FrontToBack\\ViewModels\\Categories\\CategoryImageVM.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\Educal-FrontToBack\\Educal-FrontToBack\\ViewModels\\Categories\\CategoryImageVM.cs",
+              "RelativeToolTip": "Educal-FrontToBack\\ViewModels\\Categories\\CategoryImageVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:57:19.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
